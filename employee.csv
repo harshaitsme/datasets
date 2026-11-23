@@ -1,0 +1,501 @@
+Employee_ID,Employee_Name,Age,Gender,Department,Job_Role,City,Education_Level,Employment_Type,Hire_Date,Years_Experience,Monthly_Salary_LKR,Performance_Rating,Job_Satisfaction,Overtime,Remote_Work,Training_Hours,Annual_Leave_Taken,Attrition
+EMP0001,Nadeesha Peris,36,Prefer not to say,IT,Developer,Colombo,Bachelor,Probation,1/31/2022,10.3,40944.46,4.6,1.3,No,Yes,0,2,Yes
+EMP0002,Ruwan Kumara,49,female,Operations,Sales Executive,Colombo,A/L,Permanent,6/21/2021,9.9,119107.38,4.2,3.8,No,No,2,6,No
+EMP0003,Nimal Perera,37,Prefer not to say,Human Resources,HR Officer,Kurunegala,Master,Permanent,10/8/2025,9.9,153484.91,4.9,2.5,No,No,9,6,No
+EMP0004,Dinesh Bandara,38,   Male,Finance,Developer,Kandy,Bachelor,Probation,4/6/2023,7.3,80545.94,2.4,3.7,Yes,Yes,8,23,No
+EMP0005,Dinesh Bandara,23,female,Human Resources,Developer,Kandy,Bachelor,Permanent,7/27/2021,0.8,121216.62,4.7,3.3,No,Yes,10,15,No
+EMP0006,Ayesha Fernando,58,Prefer not to say,Operations,Manager,Kurunegala,A/L,Probation,12/12/2021,19.6,86156.05,5,1.6,No,Yes,12,1,No
+EMP0007,Tharushi Dias,59,Prefer not to say,IT,Sales Executive,Kurunegala,Diploma,Probation,4/13/2023,18.4,115197.14,3.6,1.4,No,Yes,7,0,No
+EMP0008,Ruwan Kumara,59,Male,Human Resources,Support Officer,Kurunegala,Diploma,Permanent,9/10/2024,16.4,70249.75,4.8,4.7,Yes,No,7,0,Yes
+EMP0009,Saman Jayasinghe,52,Prefer not to say,Operations,Developer,Kandy,A/L,Probation,12/17/2019,21.1,,4.8,1.7,No,Yes,8,24,No
+EMP0010,Saman Jayasinghe,,Female,Human Resources,Sales Executive,Colombo,Master,Permanent,10/20/2024,14.5,69841.65,3.4,1.9,Yes,Yes,1,22,No
+EMP0011,Ishara Senanayake,52,Male,Operations,Analyst,Galle,A/L,Contract,2/14/2022,25.4,78050.32,3.3,2.9,No,No,3,3,Yes
+EMP0012,Saman Jayasinghe,24,Female,IT,Support Officer,Galle,Diploma,Permanent,2/8/2020,2.3,87414.57,2,1.8,No,Yes,6,5,No
+EMP0013,Dinesh Bandara,36,Male,Operations,Developer,Galle,A/L,Permanent,1/18/2020,6.9,61611.68,,1.2,No,Yes,6,8,No
+EMP0014,Kamal Silva,24,Prefer not to say,Human resources,HR Officer,Colombo,Bachelor,Contract,6/10/2021,2.2,103901.35,1.2,3.3,Yes,Yes,8,2,No
+EMP0015,Tharushi Dias,58,Male,IT,Manager,Kurunegala,Master,Contract,10/5/2021,20.7,107780.53,3.3,3.1,No,Yes,10,22,No
+EMP0016,Ayesha Fernando,50,Male,Human Resources,Developer,Jaffna,Master,Probation,2/8/2019,11.6,109268.81,3.2,3,Yes,No,1,7,No
+EMP0017,Tharushi Dias,40,Prefer not to say,Operations,Developer,Galle,,Permanent,3/21/2025,15.1,121457.81,4,1.6,No,Yes,11,10,Yes
+EMP0018,Ayesha Fernando,38,Prefer not to say,IT,Support Officer,Colombo,Master,Probation,10/1/2023,7.1,59792.28,4.9,1.6,No,No,8,0,Yes
+EMP0019,Ruwan Kumara,29,Prefer not to say,Operations,Analyst,Galle,Bachelor,Permanent,10/27/2023,-2,57886.26,4.9,1.2,No,Yes,10,7,No
+EMP0020,Saman Jayasinghe,22,Female,Finance,Analyst,Galle,Master,Contract,8/16/2023,0.7,119704.37,3.9,2,Yes,Yes,6,1,No
+EMP0021,Tharushi Dias,33,Female,Finance,Analyst,kandy,Master,Permanent,4/7/2019,4.6,87756.37,4.1,2.4,No,No,0,3,No
+EMP0022,Nadeesha Peris,43,Prefer not to say,IT,Manager,Badulla,Bachelor,Contract,11/15/2023,14.4,112138.09,,2.5,Yes,No,0,22,No
+EMP0023,Ayesha Fernando,60,Female,Sales,Developer,Galle,A/L,Probation,9/14/2022,,35000,2.2,2.2,n,No,6,22,No
+EMP0024,Nadeesha Peris,40,Male,Finance,Manager,Badulla,Bachelor,Probation,5/20/2025,9.5,65928.13,1.8,4.1,No,No,7,14,No
+EMP0025,Dinesh Bandara,60,Prefer not to say,IT,HR Officer,Colombo,A/L,Contract,10/12/2024,28.3,48285.96,3.7,1.9,Yes,Yes,0,1,No
+EMP0026,Nadeesha Peris,52,Male,Operations,Analyst,Colombo,Bachelor,Permanent,4/22/2023,21.5,88941.49,4.6,4.4,Yes,No,3,5,No
+EMP0027,Tharushi Dias,54,Prefer not to say,Sales,Analyst,Galle,Bachelor,Contract,3/18/2024,19.9,,4.3,3.2,Yes,No,7,8,No
+EMP0028,Nadeesha Peris,36,Male,,Developer,Galle,Diploma,Permanent,3/16/2022,9.3,77729.62,1.6,1.9,Yes,Yes,1,13,No
+EMP0029,Nimal Perera,22,Male,Sales,Sales Executive,Kandy,,Probation,7/20/2025,0.8,64052.39,4.8,2.7,Yes,No,3,8,No
+EMP0030,Ishara Senanayake,60,Male,Finance,Sales Executive,Kurunegala,A/L,Contract,6/6/2020,25.2,113869.45,3.7,1.3,No,Yes,7,5,Yes
+EMP0031,Nimal Perera,47,Female, IT ,Sales Executive,Kurunegala,Bachelor,Permanent,2/13/2022,9.4,81113.02,3.2,5,No,Yes,10,2,No
+EMP0032,Kamal Silva,29,Female,Operations,Analyst,Kandy,Diploma,Probation,9/4/2021,6.6,93463.54,2.9,2,No,Yes,9,19,No
+EMP0033,Kasun Wijeratne,45,Female,IT,HR Officer,Kandy,A/L,Probation,6/16/2025,9.3,76336.7,3.8,3.5,Yes,No,10,19,No
+EMP0034,Tharushi Dias,42,Prefer not to say,it,Developer,Jaffna,A/L,Contract,9/3/2024,12.5,51751.2,2.7,2.4,No,Yes,6,5,No
+EMP0035,Ruwan Kumara,38,Female,Sales,Support Officer,Galle,Bachelor,Contract,8/23/2025,13.9,82879.15,2.1,2.8, y ,No,5,0,No
+EMP0036,Dinesh Bandara,59,Prefer not to say,Human Resources,HR Officer,Badulla,A/L,Contract,2/19/2022,13.5,109306.54,4.8,1.3,No,No,8,24,No
+EMP0037,Dinesh Bandara,35,Male,IT,Developer,Kandy,Master,Permanent,4/20/2022,9.5,88497.94,2.5,3.2,No,No,11,17,No
+EMP0038,Nadeesha Peris,41,Prefer not to say,IT,Support Officer,Kandy,Diploma,Permanent,2/27/2021,14.6,52814.24,1.7,1.9,No,No,11,18,No
+EMP0039,Nimal Perera,32,Prefer not to say,Human Resources,Analyst,Kandy,A/L,Contract,1/18/2023,4.5,60146.89,1.2,1.2,No,Yes,10,24,No
+EMP0040,Ishara Senanayake,24,Prefer not to say,Sales,HR Officer,Jaffna,Bachelor,Probation,1/25/2021,2.1,93995.77,1.6,4.2,No,Yes,3,3,No
+EMP0041,Saman Jayasinghe,40,Female,Sales,Sales Executive,Jaffna,Diploma,Permanent,12/19/2023,12.4,68569.95,4,4.8,Yes,Yes,4,21,Yes
+EMP0042,Kasun Wijeratne,59,Prefer not to say,IT,Sales Executive,Kurunegala,A/L,Permanent,1/20/2024,18.8,93399.27,2.1,4.4,Yes,Yes,4,25,No
+EMP0043,Tharushi Dias,38,Prefer not to say,Operations,Analyst,,A/L,Contract,9/2/2020,12.3,70167.74,3.3,2.2,Yes,No,11,9,No
+EMP0044,Ayesha Fernando,48,Male,IT,Manager,Jaffna,A/L,Contract,6/13/2019,9.8,125458.99,1.9,3.7,Yes,No,9,1,No
+EMP0045,Ishara Senanayake,52,Prefer not to say,Finance,Manager,Colombo,A/L,Permanent,11/21/2023,,140548.66,2.3,1.4,Yes,No,6,22,No
+EMP0046,Kasun Wijeratne,28,m,Human Resources,HR Officer,Badulla,A/L,Permanent,8/17/2022,4.3,520000,5,3.6,No,No,0,6,No
+EMP0047,Ishara Senanayake,29,Female,Finance,HR Officer,Kurunegala,Diploma,Contract,2/27/2025,5.6,134172.75,1.5,4.9,Yes,Yes,4,17,Yes
+EMP0048,Saman Jayasinghe,52,Prefer not to say,,Support Officer,Jaffna,Bachelor,Permanent,9/22/2020,21.8,126444.2,2.7,2.9,No,Yes,7,17,Yes
+EMP0049,Nadeesha Peris,53,Male,Human Resources,Sales Executive,Galle,Master,Permanent,10/24/2022,20.5,166582.64,3.6,4.5,No,No,5,10,No
+EMP0050,Ayesha Fernando,35,Male,Finance,Manager,Colombo,Bachelor,Probation,4/18/2023,7.1,126095.94,2.9,4.7,No,No,10,25,No
+EMP0051,Dinesh Bandara,49,Prefer not to say,Operations,HR Officer,Colombo,Diploma,Permanent,2/16/2020,15.4,62900.2,1.3,2.3,No,No,10,22,No
+EMP0052,Ayesha Fernando,48,Female,Human Resources,Analyst,Jaffna,A/L,Probation,1/6/2020,11.7,106665.92,2.2,1.1,No,Yes,4,11,No
+EMP0053,Nimal Perera,26,Male,Finance,Analyst,Kandy,Bachelor,Permanent,12/18/2020,3.5,,,3.3,Yes,No,10,8,No
+EMP0054,Ruwan Kumara,40,Prefer not to say,Sales,HR Officer,Kandy,Master,Permanent,8/3/2025,9,107420.89,4.4,1.8,No,No,1,7,No
+EMP0055,Ayesha Fernando,57,Prefer not to say,Sales,HR Officer,Colombo,Diploma,Contract,2/3/2019,28.9,170484,4.1,1.9,No,Yes,10,6,No
+EMP0056,Ayesha Fernando,44,Male,Sales,Developer,Galle,Master,Probation,7/1/2025,11.4,108143.23,4,1.7,Yes,No,8,16,No
+EMP0057,Nadeesha Peris,25,Female,Human Resources,Developer,Galle,Master,Probation,4/2/2024,3.4,162208.34,4.9,4.2,No,Yes,12,12,Yes
+EMP0058,Tharushi Dias,44,Prefer not to say,Human Resources,Manager,Galle,Diploma,Permanent,4/10/2023,8.3,68691.76,4.5,3.2,Yes,Yes,10,14,No
+EMP0059,Dinesh Bandara,52,Prefer not to say,IT,Developer,Galle,Master,Permanent,5/31/2022,19.2,,2.6,2.5,No,Yes,6,20,Yes
+EMP0060,Kasun Wijeratne,49,Female,Human Resources,Analyst,Colombo,Master,Permanent,12/22/2023,60,198282.21,2.6,1.8,Yes,No,1,21,Yes
+EMP0061,Nadeesha Peris,25,Male,Finance,Manager,Kurunegala,Diploma,Probation,4/20/2021,2.6,133076.82,4.3,1.9,Yes,Yes,4,4,No
+EMP0062,Ruwan Kumara,43,Prefer not to say,IT,Analyst,Jaffna,Diploma,Contract,3/2/2019,11.3,114583.94,1.7,1.2,No,Yes,11,2,No
+EMP0063,Kamal Silva,54,Female,Operations,Analyst,Kandy,Bachelor,Permanent,6/27/2019,12.1,66375.32,5,4.4,No,Yes,7,22,No
+EMP0064,Nadeesha Peris,56,Prefer not to say,Finance,HR Officer,Kurunegala,A/L,Contract,7/25/2025,22.7,112636.4,10,3,No,Yes,12,22,Yes
+EMP0065,Kamal Silva,50,Male,Finance,Sales Executive,Colombo,Master,Permanent,10/20/2022,14.7,75724.2,2.3,2,Yes,No,1,2,No
+EMP0066,Kamal Silva,56,Prefer not to say,Operations,Developer,Jaffna,Bachelor,Permanent,7/30/2025,19.4,104620.35,4.5,4.8,No,Yes,4,19,No
+EMP0067,Tharushi Dias,43,,Sales,Analyst,Kandy,Diploma,Permanent,3/19/2020,16.1,123105.37,3.3,4.2,Yes,No,0,5,No
+EMP0068,Ruwan Kumara,25,,Finance,Manager,Jaffna,Diploma,Permanent,6/30/2023,1.5,44755.14,4,1.9,No,No,5,5,No
+EMP0069,Kasun Wijeratne,,Male,Finance,Analyst,Jaffna,Master,Permanent,7/23/2019,3,60305.36,2.8,2.1,Yes,No,6,3,No
+EMP0070,Saman Jayasinghe,24,Prefer not to say,Finance,Sales Executive,Jaffna,Master,Permanent,9/20/2025,1.4,77774.47,2.3,1,No,Yes,2,12,No
+EMP0071,Kasun Wijeratne,48,Male,Sales,Support Officer,Badulla,Master,Permanent,6/23/2019,17.2,138928.57,3.8,2.7,Yes,No,0,10,Yes
+EMP0072,Nadeesha Peris,48,Prefer not to say,Sales,Developer,Kurunegala,Master,Contract,9/23/2021,14.8,104608.14,2.2,2.4,No,Yes,1,16,No
+EMP0073,Dinesh Bandara,30,Prefer not to say,Finance,Analyst,Jaffna,Master,Probation,2/26/2020,3.8,79804.25,4,1.3,No,No,12,18,No
+EMP0074,Ruwan Kumara,,Male,Human Resources,Analyst,Colombo,Diploma,Probation,12/7/2023,3,90660.78,3.4,2.4,Yes,No,7,14,Yes
+EMP0075,Nimal Perera,50,Male,Operations,Manager,Colombo,Master,Probation,4/24/2023,20.9,185328.89,1.2,4.6,Yes,No,9,15,No
+EMP0076,Kasun Wijeratne,23,Female,IT,Manager,Badulla,Master,Permanent,12/7/2020,1.1,71909.26,3.1,1.6,No,No,6,13,No
+EMP0077,Ruwan Kumara,45,Male,,Developer,Badulla,A/L,Permanent,4/4/2025,16.3,54788.6,4.6,4.5,No,Yes,9,21,Yes
+EMP0078,Tharushi Dias,40,Female,Operations,Support Officer,Kurunegala,Master,Contract,12/14/2019,9.8,103506.08,1.5,3.8,Yes,No,8,11,Yes
+EMP0079,Ayesha Fernando,30,female,,Analyst,Galle,Diploma,Contract,7/17/2020,6.6,59130.08,1.5,2.5,Yes,Yes,11,24,No
+EMP0080,Dinesh Bandara,49,Male,Human Resources,Support Officer,Kandy,A/L,Probation,8/30/2021,20.8,117987.41,1.9,2,No,Yes,5,21,No
+EMP0081,Tharushi Dias,33,Male,Operations,Sales Executive,Jaffna,Bachelor,Contract,10/25/2020,5.7,112995.04,3.6,4.5,Yes,Yes,4,2,No
+EMP0082,Kamal Silva,43,Prefer not to say,IT,Analyst,Badulla,Master,Permanent,1/22/2024,12.1,132864.43,2.5,2.5,Yes,No,3,0,No
+EMP0083,Nadeesha Peris,51,Prefer not to say,Finance,Developer,,A/L,Permanent,3/21/2022,21.1,106717.28,2.8,1,Yes,Yes,4,6,No
+EMP0084,Ayesha Fernando,28,Male,Human Resources,Analyst,Galle,Diploma,Probation,5/18/2022,5.2,54881.98,2.8,1.4,No,Yes,10,16,No
+EMP0085,Ruwan Kumara,,Male,Human Resources,Analyst,Badulla,Diploma,Contract,5/26/2025,15.9,46496.77,2.4,4.8,Yes,No,7,1,No
+EMP0086,Ayesha Fernando,27,Female,IT,HR Officer,Badulla,A/L,Permanent,9/14/2021,3.1,147765.7,1.2,3.2,Yes,No,11,15,No
+EMP0087,Tharushi Dias,33,female,Human Resources,Analyst,Colombo,Master,Contract,6/29/2019,6.1,124010.67,2.6,4.3,No,No,0,24,No
+EMP0088,Ayesha Fernando,46,Prefer not to say,IT,HR Officer,Kandy,Master,Permanent,11/25/2023,20.3,94611.12,3.1,4.2,No,Yes,6,19,No
+EMP0089,Nimal Perera,40,Female,IT,HR Officer,Badulla,A/L,Contract,4/25/2022,8.2,85141.25,2.8,2.8,No,No,4,20,No
+EMP0090,Ayesha Fernando,22,Prefer not to say,Operations,Support Officer,Galle,Master,Contract,10/17/2020,0.7,48151.42,1.1,1.3,No,No,6,18,Yes
+EMP0091,Kamal Silva,29,Male,,Developer,Kandy,A/L,Permanent,6/8/2025,5.4,97518.71,2,1.5,Yes,No,8,12,No
+EMP0092,Tharushi Dias,33,Male,Operations,HR Officer,Kurunegala,Bachelor,Contract,7/4/2024,,70640.15,1.4,3.7,No,No,11,2,No
+EMP0093,Ishara Senanayake,33,Prefer not to say,Operations,Analyst,Badulla,A/L,Probation,5/12/2020,7.2,114693.59,2.4,3.3,No,Yes,9,2,Yes
+EMP0094,Nimal Perera,25,Female,Sales,Sales Executive,Jaffna,,Contract,6/12/2025,1.5,66766.25,2.9,3.1,Yes,Yes,12,4,No
+EMP0095,Kasun Wijeratne,35,Prefer not to say,Finance,Analyst,Jaffna,Master,Probation,8/14/2022,8.8,59829.28,1.5,2.2,Yes,Yes,9,18,Yes
+EMP0096,Ishara Senanayake,23,Male,IT,Developer,Galle,,Probation,11/29/2019,1.3,79652.42,3.5,1.1,No,No,7,7,No
+EMP0097,Nadeesha Peris,47, F ,IT,Analyst,Kandy,Bachelor,Contract,12/6/2023,17,93981.72,2.3,3.9,No,No,2,24,No
+EMP0098,Saman Jayasinghe,36,Female,IT,HR Officer,Jaffna,Master,Permanent,1/16/2024,12.7,76011.36,2.9,4.5,No,Yes,1,12,No
+EMP0099,Ishara Senanayake,59,Male,IT,HR Officer,Colombo,A/L,Permanent,7/20/2024,22.2,,3.1,4.4,No,Yes,4,23,No
+EMP0100,Ruwan Kumara,44,Prefer not to say,Operations,Manager,Kandy,Bachelor,Permanent,3/8/2021,13.8,97956.56,4.1,2.1,Yes,Yes,1,12,No
+EMP0101,Kasun Wijeratne,53,Prefer not to say,Operations,Manager,Kandy,,Probation,7/3/2023,19.5,151075.35,1.6,4.6,Yes,No,9,10,Yes
+EMP0102,Kasun Wijeratne,57,Prefer not to say,,Manager,Kurunegala,Diploma,Probation,6/29/2024,19.2,39076.63,3.7,4.9,No,Yes,9,15,No
+EMP0103,Ayesha Fernando,60,Male,Sales,Analyst,Badulla,Bachelor,Contract,11/17/2024,29.7,117801.89,2,3.3,Yes,Yes,0,14,No
+EMP0104,Ruwan Kumara,24,Prefer not to say,Operations,Manager,Kandy,Master,Probation,4/15/2024,1.9,117002.96,5,2.9,No,No,2,14,No
+EMP0105,Tharushi Dias,,Male,Sales,Analyst,Colombo,A/L,Contract,10/6/2021,14.2,98856.73,2.2,2.2,Yes,No,5,15,No
+EMP0106,Nadeesha Peris,23,Prefer not to say,Human Resources,Analyst,Kandy,Bachelor,Permanent,4/4/2022,1,56765.09,2.8,2,No,Yes,3,17,No
+EMP0107,Ayesha Fernando,36,Female,Operations,Support Officer,Jaffna,Bachelor,Contract,7/31/2025,9.2,54854.71,3.6,1.2,No,No,11,15,Yes
+EMP0108,Nimal Perera,39,Male,Sales,Sales Executive,Galle,Bachelor,Probation,3/27/2021,14.5,69008.19,1.4,3.3,Yes,Yes,6,5,No
+EMP0109,Kamal Silva,40,Male,Human Resources,Developer,Kurunegala,A/L,Probation,2/7/2019,16,98918.13,2.1,5,No,Yes,8,14,No
+EMP0110,Kamal Silva,21,Female,Human Resources,Support Officer,Kurunegala,A/L,Contract,2/1/2021,0,153201.98,4,1.7,YES,No,8,10,Yes
+EMP0111,Nimal Perera,95,Prefer not to say,Finance,Developer,Colombo,A/L,Contract,12/4/2021,19.8,39722.9,2.2,3.9,Yes,No,10,11,No
+EMP0112,Kasun Wijeratne,40,Male,Finance,Sales Executive,Galle,A/L,Probation,8/20/2024,15.6,122107,2.5,1.9,Yes,No,2,14,No
+EMP0113,Dinesh Bandara,26,Female, IT ,Analyst,Badulla,Bachelor,Probation,9/6/2025,2.7,97782.21,4.7,1.4,Yes,Yes,2,10,No
+EMP0114,Nimal Perera,53,Prefer not to say,Operations,Sales Executive,KURUNEGALA,Diploma,Permanent,1/8/2020,13.3,92028.92,2.7,3.3,No,No,11,0,No
+EMP0115,Ishara Senanayake,55,Male,Sales,HR Officer,Colombo,Bachelor,Probation,9/19/2019,25,54231.42,4.1,4.9,No,No,6,14,No
+EMP0116,Nadeesha Peris,5,Male,,Developer,Kurunegala,Bachelor,Contract,1/1/2021,28.5,88692.99,4.3,4,No,No,10,23,No
+EMP0117,Nimal Perera,33,female,Human Resources,Analyst,Badulla,Diploma,Contract,2/3/2022,9.5,77233.76,1.1,1.8,n,Yes,7,19,No
+EMP0118,Nadeesha Peris,34,Female,Sales,Analyst,Galle,Master,Contract,1/19/2025,5.5,153463.8,5,1.9,No,No,3,9,No
+EMP0119,Tharushi Dias,32,Male,IT,Manager,Kurunegala,A/L,Permanent,8/20/2025,6.6,106320.44,4.9,4.8,No,No,11,13,No
+EMP0120,Dinesh Bandara,50,Male,Finance,HR Officer, colombo ,Bachelor,Permanent,8/14/2020,24.2,143775.86,3.2,1.5,Yes,No,3,10,No
+EMP0121,Kamal Silva,59, F ,Human Resources,Sales Executive,Galle,Bachelor,Probation,10/13/2025,26.1,133017.65,1.9,1.8,No,No,0,6,No
+EMP0122,Dinesh Bandara,46,Male,Operations,Support Officer,Colombo,A/L,Contract,4/17/2021,18.4,142697.79,2.5,3.1,No,No,4,11,No
+EMP0123,Ruwan Kumara,47,Male,Finance,HR Officer,Galle,A/L,Contract,7/5/2022,18.5,101596,2.2,1.8,Yes,No,9,7,No
+EMP0124,Nimal Perera,31, F ,Finance,Support Officer,Kurunegala,Bachelor,Permanent,12/13/2022,4.4,54136.21,4.6,5,Yes,Yes,1,21,Yes
+EMP0125,Nimal Perera,,Female,Human resources,Developer,Jaffna,Master,Probation,6/14/2021,21.4,92590.34,4.7,4.7,No,Yes,0,17,No
+EMP0126,Saman Jayasinghe,48,Prefer not to say,Human Resources,Developer,Kurunegala,Master,Probation,8/19/2024,16.6,72638.29,4.3,2.1,No,Yes,5,12,No
+EMP0127,Kasun Wijeratne,26,Female,IT,Support Officer,Jaffna,Diploma,Permanent,5/10/2019,2.9,87172.94,3.5,3.8,Yes,No,6,20,No
+EMP0128,Ishara Senanayake,51,Female,Finance,Support Officer,Kandy,Bachelor,Probation,5/10/2025,18.6,108189.86,3.6,1.7,No,Yes,3,18,Yes
+EMP0129,Kamal Silva,55,Male,Finance,Manager,Jaffna,A/L,Contract,5/13/2023,14.3,59564.27,5,3.9,No,Yes,1,13,No
+EMP0130,Saman Jayasinghe,49,Prefer not to say,IT,Support Officer,Colombo,Diploma,Contract,1/24/2022,23,94249.29,2.7,3.7,No,Yes,12,19,No
+EMP0131,Dinesh Bandara,45,Prefer not to say,Finance,Sales Executive,Jaffna,A/L,Permanent,9/23/2020,,84440.02,2.2,2.4,No,Yes,2,2,Yes
+EMP0132,Saman Jayasinghe,56,Prefer not to say,IT,Developer,Jaffna,Bachelor,Probation,,17.9,42896.59,2.5,2.2,No,Yes,11,17,No
+EMP0133,Dinesh Bandara,38,Prefer not to say,Sales,Analyst,Jaffna,Bachelor,Contract,7/22/2020,6.5,74807.8,2.7,2.7,No,Yes,5,8,No
+EMP0134,Ruwan Kumara,21,Prefer not to say,IT,Analyst,Badulla,Bachelor,Contract,6/1/2022,0,129590.7,4.2,2.3,No,No,10,19,Yes
+EMP0135,Kasun Wijeratne,41,Female,Human Resources,Analyst,Jaffna,Bachelor,Probation,6/20/2023,,59813.74,3.3,2,No,No,12,12,No
+EMP0136,Tharushi Dias,34,Prefer not to say,Operations,Developer,Kurunegala,A/L,Contract,3/5/2024,9.1,90530.4,4.3,4.2,No,No,2,20,No
+EMP0137,Kamal Silva,51,Female,IT,Sales Executive,Kurunegala,Master,Permanent,9/15/2025,24.4,104090.34,4.5,2.7,Yes,No,11,25,No
+EMP0138,Kasun Wijeratne,46,Prefer not to say,Operations,Developer,Jaffna,Bachelor,Contract,4/25/2025,18.7,130943.6,1.4,1.4,Yes,Yes,7,11,No
+EMP0139,Ruwan Kumara,39,Female,IT,Sales Executive,Kandy,Diploma,Probation,3/4/2020,10.4,68199.79,1.8,2.9,No,Yes,7,23,No
+EMP0140,Saman Jayasinghe,27,Male,IT,Developer,Badulla,Bachelor,Permanent,11/6/2022,5.1,105909.67,2,1.7,Yes,No,8,13,No
+EMP0141,Nadeesha Peris,60, F ,Sales,Sales Executive,Kandy,Master,Permanent,4/30/2019,22,130820.37,1,1.9,No,Yes,9,3,No
+EMP0142,Tharushi Dias,52,Prefer not to say,Sales,Developer,Jaffna,Diploma,Probation,12/10/2021,20.1,,3.4,3.3,No,No,7,19,Yes
+EMP0143,Nadeesha Peris,36,Prefer not to say,Finance,HR Officer,Badulla,Bachelor,Probation,4/27/2020,10.5,82739.5,3,2.7,Yes,No,6,5,No
+EMP0144,Dinesh Bandara,29,Male,Finance,Sales Executive,Kurunegala,Diploma,Probation,3/29/2022,6.6,140699.26,2.9,1.8,No,No,6,21,No
+EMP0145,Nadeesha Peris,23,Male,IT,Analyst,Jaffna,Diploma,Probation,4/11/2022,0.9,69940.32,2.8,4,No,Yes,9,3,No
+EMP0146,Saman Jayasinghe,48,Prefer not to say,Sales,Manager,Jaffna,Master,Probation,6/14/2021,22.9,113419.29,2.8,2.4,Yes,No,1,24,No
+EMP0147,Kasun Wijeratne,31,Male,Operations,Support Officer,Jaffna,Diploma,Permanent,10/20/2023,7.6,122784.33,4.2,3.3,No,Yes,5,22,No
+EMP0148,Ishara Senanayake,29,Male,FINANCE,Developer,Galle,Diploma,Probation,2/9/2022,3.4,106952.58,2.3,2,No,No,2,18,No
+EMP0149,Kamal Silva,38,Prefer not to say,IT,Sales Executive,,Bachelor,Contract,10/12/2024,9.8,176678.9,3,3.3,Yes,No,10,21,No
+EMP0150,Dinesh Bandara,41,Female,Finance,Sales Executive,Colombo,Bachelor,Contract,1/4/2022,12.8,120516.96,3.3,2.9,No,Yes,0,3,No
+EMP0151,Ayesha Fernando,33,Female,Sales,Developer,Galle,Master,Probation,10/19/2023,9.4,123171.58,,1.4,No,No,1,11,No
+EMP0152,Saman Jayasinghe,27,Male,Finance,Sales Executive,Colombo,Diploma,Permanent,1/9/2020,4.1,70570.96,1,3.8,Yes,No,11,4,No
+EMP0153,Ruwan Kumara,29,Prefer not to say,Human Resources,HR Officer,Kurunegala,Bachelor,Contract,5/10/2022,6.3,62659.05,3.6,3.7,Yes,Yes,9,20,Yes
+EMP0154,Nadeesha Peris,34,Prefer not to say,sales ,Support Officer,Jaffna,Master,Probation,12/18/2023,7,126655.7,4.9,2.3,Yes,Yes,4,20,Yes
+EMP0155,Kasun Wijeratne,34,Female,IT,Support Officer,Jaffna,Diploma,Contract,5/20/2022,9.4,96862.42,2.2,1.2,Yes,No,6,3,No
+EMP0156,Saman Jayasinghe,,Female,Human Resources,Analyst,Colombo,A/L,Probation,5/4/2023,15.7,86021.98,2.9,4.9,Yes,Yes,9,2,Yes
+EMP0157,Ayesha Fernando,47,female,Human Resources,Support Officer,Kandy,A/L,Probation,8/14/2024,17.4,,3.2,1.6,YES,No,1,16,No
+EMP0158,Nimal Perera,36,Female,IT,HR Officer,Galle,Master,Probation,11/27/2023,9.8,88831.53,2.2,4,Yes,Yes,0,22,Yes
+EMP0159,Kamal Silva,31,Male,Operations,Support Officer,KURUNEGALA,Diploma,Contract,11/27/2021,7.9,68646.19,3.9,1.5,Yes,No,12,13,No
+EMP0160,Nimal Perera,24,Female,Sales,Manager,Colombo,A/L,Contract,1/15/2023,1.6,94953.66,2,1.4,Yes,Yes,11,16,Yes
+EMP0161,Kamal Silva,23,Prefer not to say,Sales,Analyst,Badulla,Diploma,Permanent,1/3/2021,1.4,126617.16,2.7,2.3,No,No,4,2,No
+EMP0162,Tharushi Dias,46,Prefer not to say,Finance,Manager,Jaffna,Bachelor,Contract,7/8/2019,12.3,53524.36,4.4,2.3,No,Yes,5,6,No
+EMP0163,Nimal Perera,33,Male,Human Resources,Manager,Colombo,A/L,Probation,7/13/2024,9,121384.75,1.6,4.7,Yes,Yes,8,11,No
+EMP0164,Nadeesha Peris,54,Male,Human Resources,Developer,Badulla,Master,Contract,4/20/2021,27.4,137855.28,4.9,1.6,No,Yes,0,7,No
+EMP0165,Ruwan Kumara,53,m,IT,Manager,Galle,Master,Permanent,1/27/2020,18.2,44368.92,4.9,1.9,No,No,12,12,No
+EMP0166,Kamal Silva,58,Female,IT,Analyst,Badulla,Master,Probation,7/11/2020,15.2,91216.16,2.4,4.1,No,No,7,8,No
+EMP0167,Dinesh Bandara,41,Prefer not to say,Operations,Developer,,Bachelor,Permanent,5/30/2021,16.7,35000,2.6,1.2,No,No,2,0,No
+EMP0168,Dinesh Bandara,28,Female,Sales,Developer,Colombo,Master,Permanent,7/26/2020,4.7,121535.8,3.6,3.3,No,Yes,0,2,Yes
+EMP0169,Tharushi Dias,31,Male,IT,Sales Executive,Galle,Bachelor,Permanent,7/27/2019,7.1,133508.49,3,2.5,No,Yes,5,6,No
+EMP0170,Nadeesha Peris,39,Female,Operations,Manager,Galle,Master,Contract,10/3/2021,10.6,94513.36,1.4,2.5,No,Yes,10,25,No
+EMP0171,Kasun Wijeratne,57,Female,Operations,Sales Executive,Kurunegala,Diploma,Permanent,11/10/2022,15.8,95201.39,2.3,1.9,No,Yes,12,15,No
+EMP0172,Ruwan Kumara,24,Prefer not to say,Finance,HR Officer,Jaffna,Bachelor,Probation,12/25/2024,2.5,35000,1.7,1.9,No,No,9,0,No
+EMP0173,Ruwan Kumara,40,Female,Finance,Sales Executive,Colombo,Bachelor,Probation,1/29/2025,6.8,37656.16,2.9,2.3,Yes,Yes,5,22,Yes
+EMP0174,Ishara Senanayake,44,Prefer not to say,Finance,Developer,Galle,Master,Permanent,11/25/2024,18.9,132839.54,2.6,1.4,No,No,2,5,No
+EMP0175,Kasun Wijeratne,35,Female,Operations,Support Officer,Kurunegala,Master,Probation,1/1/2023,7.5,140914.42,3.9,2.2,Yes,Yes,11,18,No
+EMP0176,Saman Jayasinghe,27,Prefer not to say,Finance,Support Officer,Colombo,Master,Contract,5/5/2025,5,,1.7,4.5,Yes,No,7,0,No
+EMP0177,Dinesh Bandara,24,Prefer not to say,IT,Support Officer,Badulla,Bachelor,Permanent,1/6/2019,2.5,73047.86,4.5,3,n,No,8,12,Yes
+EMP0178,Nimal Perera,39,Male,Sales,Developer,Badulla,Bachelor,Probation,5/17/2019,14.3,64092.36,1.6,1.3,Yes,No,9,19,No
+EMP0179,Nadeesha Peris,27,Male,Sales,Analyst,Kurunegala,Diploma,Contract,8/8/2019,4.9,84528.78,3.2,3.6,No,Yes,1,1,No
+EMP0180,Ishara Senanayake,39,Male,IT,Sales Executive,Galle,Master,Permanent,12/25/2019,10.6,139463.17,1.4,1.8,No,Yes,7,3,No
+EMP0181,Kamal Silva,44,Female,Operations,Sales Executive,Badulla,Master,Probation,1/27/2021,13.2,126461.71,,2.9,Yes,No,9,1,Yes
+EMP0182,Nimal Perera,56,Prefer not to say,Sales,Manager,,Bachelor,Permanent,7/20/2021,21.4,58134.99,4.9,3.7,No,Yes,7,9,Yes
+EMP0183,Kamal Silva,34,Female,Sales,Analyst,Galle,A/L,Probation,11/15/2020,7.3,113167.7,5,2.7,Yes,No,5,23,No
+EMP0184,Tharushi Dias,50,Prefer not to say,FINANCE,HR Officer,Kandy,A/L,Contract,10/29/2024,21.5,120009.16,1.5,1.6,Yes,Yes,9,24,Yes
+EMP0185,Nimal Perera,57,Prefer not to say,,Support Officer,Galle,Master,Contract,6/11/2024,17.6,100826.11,1.6,3.4,No,Yes,6,10,No
+EMP0186,Ruwan Kumara,40,Male,IT,HR Officer,Badulla,A/L,Probation,5/26/2022,13.3,72763.43,,4.5,Yes,No,11,14,No
+EMP0187,Ishara Senanayake,34,Female,IT,Analyst,Jaffna,Diploma,Permanent,12/15/2023,7.7,130891.7,3.1,2.5,Yes,Yes,1,9,No
+EMP0188,Dinesh Bandara,36,Female,Finance,Analyst,Galle,Master,Contract,8/25/2019,8,86027.59,2.9,2.6,Yes,Yes,3,11,No
+EMP0189,Kasun Wijeratne,39,Female,Finance,HR Officer,Kurunegala,,Probation,1/6/2020,8.3,76117.51,1.8,3.6,Yes,Yes,7,4,No
+EMP0190,Ruwan Kumara,48,Prefer not to say,Human Resources,Support Officer,Badulla,Master,Contract,2/1/2022,13.5,92300.81,3.1,3.5,Yes,Yes,8,21,No
+EMP0191,Kasun Wijeratne,42,Male,IT,Sales Executive,Badulla,Master,Probation,9/19/2019,14.8,120180.2,4.6,2.2,Yes,Yes,0,25,No
+EMP0192,Nadeesha Peris,52,Prefer not to say,Finance,Support Officer,Galle,Master,Probation,4/15/2019,,88148.74,,3.3,Yes,No,11,22,No
+EMP0193,Saman Jayasinghe,32,Prefer not to say,Human Resources,Analyst,Kandy,A/L,Contract,4/5/2025,7.9,74945.78,3.9,3.2,Yes,No,10,2,No
+EMP0194,Ishara Senanayake,39,Prefer not to say,Human Resources,HR Officer,Kandy,A/L,Permanent,7/26/2025,6.8,92885.91,3.5,3.3,Yes,No,3,16,Yes
+EMP0195,Ayesha Fernando,,,Finance,Analyst,Badulla,Diploma,Permanent,3/31/2021,16.9,84146.41,2.8,2.3,Yes,Yes,7,10,No
+EMP0196,Ishara Senanayake,31,Female,Sales,HR Officer,Colombo,Bachelor,Probation,5/7/2021,7.4,99664.83,4.1,1.5, y ,No,6,13,No
+EMP0197,Kasun Wijeratne,54,Male,Human Resources,Developer,Kurunegala,Diploma,Permanent,8/12/2022,21.9,45735.85,2,3.8,No,No,2,3,No
+EMP0198,Ishara Senanayake,54,Female,Human Resources,HR Officer,Kurunegala,Bachelor,Probation,2/11/2024,26.2,,5,2.4,No,No,12,6,Yes
+EMP0199,Nimal Perera,58,Female,Finance,Analyst,Badulla,Diploma,Contract,3/31/2019,26.1,95271.97,4.2,2.5,No,Yes,9,1,No
+EMP0200,Kasun Wijeratne,56,Prefer not to say,Sales,Sales Executive,Kurunegala,A/L,Permanent,5/21/2020,15.8,52315.76,3.7,1,No,Yes,10,16,No
+EMP0201,Saman Jayasinghe,39,Prefer not to say,Operations,Support Officer,Galle,Master,Permanent,4/27/2020,8.7,75619.32,3.1,1.8,No,No,2,1,No
+EMP0202,Tharushi Dias,28,Male,IT,Developer,Galle,Diploma,Permanent,unknown,3,147127.33,1.4,3,Yes,No,10,7,No
+EMP0203,Ruwan Kumara,44,Male,Finance,Developer,Galle,Master,Probation,4/5/2022,16.5,117584.1,1.4,4,Yes,Yes,2,21,No
+EMP0204,Ayesha Fernando,32,Prefer not to say,IT,HR Officer,Badulla,Diploma,Permanent,11/4/2022,,61862.08,4.3,3.8,No,No,10,25,Yes
+EMP0205,Ishara Senanayake,51,Male,IT,Sales Executive,Colombo,Diploma,Contract,8/16/2025,13.2,143370.58,2.5,2.4,Yes,Yes,7,15,Yes
+EMP0206,Ruwan Kumara,57,Prefer not to say,Human Resources,Developer,Badulla,A/L,Permanent,11/19/2024,29.8,109840.81,4.5,3.1,Yes,No,10,23,No
+EMP0207,Tharushi Dias,21,Female,Operations,Manager,Jaffna,Bachelor,Probation,8/12/2019,0,103753.85,4.4,4.5,Yes,No,5,7,No
+EMP0208,Ishara Senanayake,26,Male,Sales,Sales Executive,Colombo,Diploma,Permanent,8/20/2021,2.9,84407.04,4.4,2.8,Yes,No,11,20,Yes
+EMP0209,Kasun Wijeratne,53,Male,Operations,Manager,Badulla,Master,Probation,,18.5,104287.67,2.4,4.3,Yes,No,5,17,No
+EMP0210,Ishara Senanayake,35,Female,Sales,Developer,Kandy,Bachelor,Permanent,2/4/2020,9.3,55270.74,4.2,3.2,No,Yes,0,5,No
+EMP0211,Nadeesha Peris,50,Female,FINANCE,Sales Executive,Galle,Diploma,Probation,6/2/2021,15.1,115636.29,4,1.2,Yes,No,7,21,No
+EMP0212,Ruwan Kumara,58,Prefer not to say,IT,Manager,Galle,A/L,Probation,11/8/2023,30,,1.7,3.3,Yes,Yes,6,21,No
+EMP0213,Saman Jayasinghe,42,Female,Finance,HR Officer,,Master,Probation,6/18/2023,8.8,139254.87,2.7,3.8,No,No,11,23,No
+EMP0214,Nadeesha Peris,32,Male,Human Resources,Support Officer,Galle,Diploma,Probation,6/27/2020,5.6,95655.5,1.5,2.4,No,No,10,23,No
+EMP0215,Ruwan Kumara,30,Male,IT,Developer,Colombo,Bachelor,Probation,4/10/2023,7.6,39081.78,3.7,1.6,Yes,No,3,24,No
+EMP0216,Nadeesha Peris,53,Female,Operations,Sales Executive,Colombo,Master,Permanent,8/31/2021,15.8,167732.05,3.7,4.7,No,No,12,21,No
+EMP0217,Ayesha Fernando,44,Prefer not to say,Operations,Sales Executive,Jaffna,Diploma,Contract,7/12/2021,15,123958.47,-1,4.9,No,No,2,21,Yes
+EMP0218,Kasun Wijeratne,56,Prefer not to say,IT,Sales Executive,Kandy,A/L,Probation,2/17/2022,27.1,80539.24,1,2.9,Yes,Yes,2,10,No
+EMP0219,Ruwan Kumara,41,Male,,HR Officer,Kandy,Master,Permanent,10/26/2019,12.2,125386.16,4.1,1.6,No,Yes,5,7,No
+EMP0220,Nadeesha Peris,56,Prefer not to say,Operations,Manager,Kandy,Diploma,Probation,4/29/2024,23,65720.66,3.5,4.8,No,No,12,3,No
+EMP0221,Kamal Silva,49,Female,Human Resources,Manager,Badulla,Bachelor,Probation,9/14/2024,18.9,94034.76,2.3,1.3,Yes,Yes,12,17,No
+EMP0222,Kamal Silva,55,Female,Sales,Developer,Kurunegala,Master,Probation,4/22/2021,25.8,116996.1,1.3,3.7,Yes,No,11,10,Yes
+EMP0223,Kasun Wijeratne,37,Female,IT,Manager,Badulla,Diploma,Contract,7/21/2021,8.8,86339.08,2.3,2.6,Yes,Yes,10,23,No
+EMP0224,Ishara Senanayake,40,Prefer not to say,Operations,Developer,Kandy,Bachelor,Contract,4/2/2022,15.5,102633.45,2.5,4.3,Yes,No,2,17,Yes
+EMP0225,Ayesha Fernando,56,Female,Human Resources,Developer,Kurunegala,Bachelor,Probation,3/17/2025,21.8,,1.3,1.8,No,Yes,6,20,No
+EMP0226,Kamal Silva,32,Female,Human Resources,Analyst,Badulla,A/L,Contract,4/14/2020,4.1,115335.96,4,5,No,Yes,4,21,Yes
+EMP0227,Ruwan Kumara,27,Male,Human Resources,Analyst,Kurunegala,Diploma,Contract,8/18/2021,2.7,83112.02,2.9,2.3,No,Yes,9,18,No
+EMP0228,Kasun Wijeratne,38,Female,Finance,Analyst,Kandy,Bachelor,Probation,11/22/2023,12.2,115219.67,4.5,2.9,No,No,7,17,Yes
+EMP0229,Ayesha Fernando,25,Male,Finance,HR Officer,Galle,Bachelor,Probation,11/10/2019,2.6,131156.88,4.1,1.9,Yes,No,8,17,No
+EMP0230,Kasun Wijeratne,53,Prefer not to say,Human Resources,Analyst,Kurunegala,A/L,Contract,3/18/2024,19.2,95888.34,3.7,4.4,Yes,Yes,7,5,Yes
+EMP0231,Nimal Perera,35,Prefer not to say,IT,Analyst,Kandy,Diploma,Probation,6/20/2024,5.2,59321.33,1.8,4.6,No,No,7,14,No
+EMP0232,Ruwan Kumara,37,Male,Operations,Support Officer,Galle,A/L,Probation,1/25/2022,8.6,104414.74,2.5,3.4,Yes,No,6,7,No
+EMP0233,Kamal Silva,49,Male,IT,Manager,Badulla,A/L,Contract,7/23/2020,12.4,104365.03,2.4,3.9,Yes,Yes,6,25,No
+EMP0234,Ishara Senanayake,47,Prefer not to say,Finance,Manager,Jaffna,Diploma,Probation,10/22/2020,17.3,99508.49,1.2,3.3,Yes,Yes,4,5,No
+EMP0235,Ayesha Fernando,49,Prefer not to say,Human Resources,Developer,Badulla,Master,Contract,6/6/2021,16.5,105371.89,1.9,2.6,Yes,Yes,9,21,No
+EMP0236,Kasun Wijeratne,35,Prefer not to say,Operations,Manager,Colombo,Diploma,Permanent,10/9/2019,5,87777.08,3.1,4.6,No,Yes,9,3,Yes
+EMP0237,Saman Jayasinghe,59,Male,Sales,Support Officer,Galle,Master,Probation,6/17/2020,31.1,97024.32,3.7,2.7,No,No,0,22,No
+EMP0238,Nimal Perera,29,,Operations,Developer,Jaffna,Diploma,Probation,10/9/2023,6.4,41041.37,1.3,3.4,No,No,3,0,No
+EMP0239,Ishara Senanayake,41,Female,IT,Sales Executive,Galle,A/L,Permanent,4/21/2021,11.3,89748.96,,2,No,No,9,8,No
+EMP0240,Ayesha Fernando,51,Female,Human Resources,Manager,Kurunegala,,Contract,3/22/2025,15.7,76723.38,3.8,3.9,Yes,Yes,7,25,No
+EMP0241,Kamal Silva,31,Prefer not to say,Operations,Manager,Colombo,A/L,Contract,8/2/2019,7.5,79325.72,4.3,2.9,No,Yes,1,8,No
+EMP0242,Nadeesha Peris,39,Male,Operations,Support Officer,Kurunegala,Diploma,Probation,11/4/2024,14.8,122055.23,4.3,3.6,No,Yes,3,21,No
+EMP0243,Nadeesha Peris,60,Prefer not to say,Operations,Manager,Kandy,Master,Contract,8/6/2021,21.4,117251.06,3.3,3.1,Yes,Yes,8,9,No
+EMP0244,Tharushi Dias,50,Prefer not to say,Finance,Manager,Jaffna,Master,Probation,3/7/2021,,147025.24,2.6,1.4,Yes,No,5,3,No
+EMP0245,Saman Jayasinghe,51, F ,Sales,Sales Executive,Badulla,Bachelor,Contract,4/25/2025,24.9,152288.89,2.8,2.8,Yes,No,1,8,Yes
+EMP0246,Kasun Wijeratne,55,Male,Sales,HR Officer,Kurunegala,Bachelor,Contract,10/16/2024,23.4,80715.25,4.3,1.3,Yes,No,5,11,Yes
+EMP0247,Dinesh Bandara,37,Prefer not to say,Finance,Analyst,Colombo,Diploma,Contract,9/18/2021,7.6,76070.94,3.5,1.6,Yes,Yes,1,21,No
+EMP0248,Nadeesha Peris,52,Male,Human Resources,Manager,Galle,Diploma,Probation,7/15/2022,13.7,100287.99,4.1,3,No,Yes,12,18,Yes
+EMP0249,Tharushi Dias,50,Female,Human Resources,Sales Executive,Kandy,A/L,Probation,12/16/2020,10.3,88387.81,1.8,3.3,No,No,9,8,Yes
+EMP0250,Saman Jayasinghe,52,Female,Human Resources,HR Officer,Badulla,Master,Permanent,1/23/2021,22.5,450000,2.5,2.6,No,Yes,9,4,No
+EMP0251,Kasun Wijeratne,33,Female,FINANCE,Sales Executive,Galle,Diploma,Probation,4/10/2023,10.2,61739.4,4.4,3.1,No,No,4,8,No
+EMP0252,Kasun Wijeratne,37,Female,Finance,Developer,Jaffna,Bachelor,Contract,6/1/2021,9.2,91737.92,2.3,2.4,No,No,0,13,Yes
+EMP0253,Ishara Senanayake,52,Prefer not to say,Human Resources,HR Officer,Jaffna,A/L,Permanent,9/21/2024,60,120566.29,3.5,2.9,Yes,Yes,10,25,No
+EMP0254,Dinesh Bandara,35,Male,IT,Analyst,Kurunegala,Bachelor,Permanent,11/8/2022,9.9,,3.4,2.6,No,No,11,18,No
+EMP0255,Ishara Senanayake,37,Male,Finance,Support Officer,Kurunegala,Bachelor,Probation,,5.8,1200000,2.6,4.1,Yes,Yes,4,19,Yes
+EMP0256,Ayesha Fernando,29,Prefer not to say,Human Resources,Sales Executive,Jaffna,Bachelor,Probation,6/1/2020,2.9,96659.43,2.4,4.7,No,No,8,8,No
+EMP0257,Ayesha Fernando,48,Male,Operations,Sales Executive,Colombo,Diploma,Probation,4/29/2025,13.6,98349.44,2.4,3.2,Yes,No,4,11,No
+EMP0258,Nadeesha Peris,51,Male,,HR Officer,Kurunegala,A/L,Probation,3/20/2022,17.9,100785.46,4,2.2,No,No,9,7,No
+EMP0259,Tharushi Dias,31,Male,it,Sales Executive,Kurunegala,Diploma,Permanent,10/20/2021,7.6,126247.67,1.9,1.3,Yes,No,4,20,No
+EMP0260,Ayesha Fernando,50,Prefer not to say,,HR Officer,Galle,,Permanent,3/28/2020,19.2,103324.39,1.8,1.1,Yes,Yes,2,3,No
+EMP0261,Nimal Perera,52,Male,IT,Analyst,Galle,Diploma,Probation,3/2/2019,23,69894.39,3,2.5,Yes,No,1,24,No
+EMP0262,Dinesh Bandara,37,Male,Sales,Analyst,Badulla,Master,Contract,2/26/2021,9.1,38525.82,4,1.1,No,Yes,8,21,No
+EMP0263,Nimal Perera,56,female,Finance,Support Officer,Kandy,Diploma,Contract,6/22/2019,,96442.35,1.8,4.6,Yes,Yes,3,20,No
+EMP0264,Nimal Perera,58,Female,Finance,Developer,Kandy,Bachelor,Probation,6/22/2019,24,122803.46,2.5,1.4,Yes,No,1,21,No
+EMP0265,Nimal Perera,52,Male,Operations,Developer,Badulla,A/L,Probation,5/30/2020,23.3,,2.8,1.8,No,No,11,4,No
+EMP0266,Tharushi Dias,33,Prefer not to say,Human Resources,Manager,Kandy,A/L,Permanent,6/30/2024,6.1,102521.94,2.9,4.5,Yes,Yes,8,4,No
+EMP0267,Nadeesha Peris,22,Female,Operations,Sales Executive,Jaffna,Master,Contract,1/29/2021,0.7,104690.2,2.3,1.3,No,Yes,8,21,No
+EMP0268,Nimal Perera,28,Prefer not to say,Human resources,Support Officer,Badulla,A/L,Probation,8/12/2022,2.6,35000,4.8,1.7,Yes,Yes,1,15,Yes
+EMP0269,Ruwan Kumara,37,Prefer not to say,Sales,Manager,Badulla,A/L,Contract,8/14/2025,11.3,65220.25,1.1,4.7,No,Yes,7,25,No
+EMP0270,Kasun Wijeratne,54,Male,sales ,Manager,Badulla,A/L,Probation,12/24/2021,14.7,119744.18,3.1,2,Yes,No,11,3,No
+EMP0271,Ishara Senanayake,32,Prefer not to say,Sales,Developer,Galle,Master,Probation,11/14/2020,7.5,520000,3.1,3.4,No,No,8,10,No
+EMP0272,Kasun Wijeratne,34,Female,Finance,Manager,Jaffna,Bachelor,Contract,2/12/2025,9.4,80703.57,2.4,2.8,No,Yes,11,1,No
+EMP0273,Ayesha Fernando,34,Male,IT,HR Officer,Kandy,Bachelor,Permanent,6/27/2021,6.3,148399.71,3.2,3.2,Yes,Yes,0,14,No
+EMP0274,Kamal Silva,57,Prefer not to say,,HR Officer,Badulla,Master,Permanent,1/12/2020,25.8,35000,,4.2,Yes,No,11,22,No
+EMP0275,Nimal Perera,24,Prefer not to say,Operations,Sales Executive,Badulla,A/L,Permanent,11/18/2019,2.4,127619.64,2.7,4.7,Yes,Yes,11,20,No
+EMP0276,Kamal Silva,41,Female,Human Resources,Manager,Galle,Master,Contract,,12,97416.47,1.9,1.2,yes,No,12,19,No
+EMP0277,Saman Jayasinghe,26,Male,Finance,Analyst, colombo ,Bachelor,Probation,10/8/2022,3.1,90120.79,2.1,2.6,NO,Yes,12,4,No
+EMP0278,Ruwan Kumara,36,Male,Operations,Support Officer,Jaffna,Diploma,Contract,11/17/2024,8.5,76925.59,3.7,3.3,Yes,No,6,11,No
+EMP0279,Tharushi Dias,60,Female,Finance,HR Officer,Kandy,Diploma,Contract,12/17/2023,20.9,115460.68,4,4.4,Yes,Yes,3,19,No
+EMP0280,Ishara Senanayake,42,Prefer not to say,FINANCE,Sales Executive,Badulla,Diploma,Contract,4/4/2019,9.5,62583.89,3.1,2,No,Yes,11,22,No
+EMP0281,Kamal Silva,33,Female,Human resources,Developer,Kandy,A/L,Permanent,3/9/2022,,133958,3.6,1,No,No,10,21,No
+EMP0282,Dinesh Bandara,41,Male,Sales,Manager,Badulla,Bachelor,Permanent,2/12/2020,7.9,93040.74,1.8,4.9,Yes,Yes,3,16,No
+EMP0283,Saman Jayasinghe,43,Female,Human Resources,Support Officer,Kandy,A/L,Probation,12/12/2022,18.5,103438.28,3,4.2,No,No,0,17,No
+EMP0284,Ayesha Fernando,54,Prefer not to say,Finance,Developer,Jaffna,Bachelor,Permanent,4/15/2023,15.5,103361.98,1.6,4.9,No,No,8,4,Yes
+EMP0285,Kamal Silva,29,Female,Human Resources,Support Officer,Kandy,Bachelor,Probation,11/15/2024,5.9,55446.35,3.6,3.3,Yes,No,1,17,No
+EMP0286,Kasun Wijeratne,47,Prefer not to say,IT,HR Officer,Kandy,Bachelor,Probation,8/23/2023,19.8,55215.25,3.5,4,Yes,Yes,1,4,Yes
+EMP0287,Nimal Perera,43,Male,Finance,Analyst,Galle,Bachelor,Probation,4/17/2019,9.7,90412.48,2.5,2.9,Yes,Yes,3,1,No
+EMP0288,Ruwan Kumara,32,Male,Finance,Analyst,Jaffna,Diploma,Probation,31/13/2021,5.6,132044.09,2.8,2,No,Yes,9,23,No
+EMP0289,Tharushi Dias,23,Male,it,Sales Executive,Galle,Bachelor,Contract,2/15/2024,1.2,,4.9,1.2,No,Yes,3,9,No
+EMP0290,Nimal Perera,54,Female,Human Resources,Manager,Galle,Bachelor,Contract,8/12/2019,22.2,133729.84,1.4,3,n,Yes,6,13,No
+EMP0291,Ayesha Fernando,31,Male,IT,HR Officer,Jaffna,Bachelor,Permanent,8/20/2022,4.1,107823.05,2.8,2.5,No,Yes,6,17,No
+EMP0292,Nimal Perera,47,Male,Finance,Analyst,Galle,A/L,Probation,7/30/2019,21.6,58392,2.2,1.7,Yes,Yes,0,19,No
+EMP0293,Nadeesha Peris,36,Female,IT,Manager,Colombo,Bachelor,Permanent,7/14/2024,8.7,52209.79,2.8,3.4,Yes,Yes,8,8,No
+EMP0294,Kasun Wijeratne,23,Prefer not to say,FINANCE,Support Officer,Jaffna,Bachelor,Contract,11/30/2022,1,105130.98,1.4,1.4,Yes,Yes,10,9,No
+EMP0295,Tharushi Dias,26,Male,Operations,HR Officer,Jaffna,A/L,Probation,5/27/2019,,115407.03,,4,Yes,No,7,4,Yes
+EMP0296,Kasun Wijeratne,60,Prefer not to say,Finance,Support Officer,Kandy,Bachelor,Probation,5/6/2021,32.7,41951.35,3.1,1.4,No,No,9,10,No
+EMP0297,Kamal Silva,52,Prefer not to say,Operations,Sales Executive,Kurunegala,A/L,Contract,10/29/2024,20.3,94529.61,3.8,4.9,Yes,Yes,0,14,No
+EMP0298,Nimal Perera,56,Female,IT,HR Officer,Badulla,,Contract,12/3/2022,23.5,,3.8,2,Yes,No,4,16,No
+EMP0299,Ishara Senanayake,60,Prefer not to say,Sales,Support Officer,,Master,Probation,5/19/2025,22.9,136722.64,1.1,1.5,Yes,No,8,10,No
+EMP0300,Nadeesha Peris,22,Female,Human Resources,Manager,Jaffna,A/L,Permanent,1/3/2025,0.7,47260.11,4.6,2.4,Yes,No,0,10,No
+EMP0301,Ruwan Kumara,41,Female,Operations,Developer,Kurunegala,Diploma,Contract,6/16/2022,7.9,109824.37,4.5,2.5,No,Yes,8,9,Yes
+EMP0302,Nadeesha Peris,53,Prefer not to say,Operations,Developer,KURUNEGALA,Bachelor,Probation,5/30/2024,18.9,68020.75,4.5,2.2,No,Yes,12,3,No
+EMP0303,Tharushi Dias,54, F ,IT,Sales Executive,Jaffna,Master,Probation,5/7/2023,12.3,66305.1,4.4,4.5,No,No,0,3,No
+EMP0304,Nadeesha Peris,33,Prefer not to say,Finance,HR Officer,Colombo,Bachelor,Probation,4/1/2021,8.8,71515.03,3.7,2.1,Yes,No,1,0,No
+EMP0305,Nimal Perera,38,Female,Human Resources,Manager,Galle,Diploma,Permanent,7/28/2022,8.4,,2,1.3,No,No,0,4,Yes
+EMP0306,Nadeesha Peris,59,Female,Sales,Sales Executive,kandy,Bachelor,Permanent,1/3/2021,26.4,149347.5,2.8,2.4,No,Yes,11,24,No
+EMP0307,Ruwan Kumara,40,,Sales,Developer,Galle,A/L,Permanent,2/10/2024,11.1,127763.4,1.9,1.9,No,No,6,5,No
+EMP0308,Nadeesha Peris,43,Prefer not to say,IT,Sales Executive,Colombo,Master,Probation,4/7/2020,10.8,87876.47,2.4,3.3,Yes,No,11,25,Yes
+EMP0309,Ruwan Kumara,47,Prefer not to say,Sales,Sales Executive,,Bachelor,Permanent,8/15/2025,11.2,77210.39,2.9,1.3,Yes,No,12,13,No
+EMP0310,Kasun Wijeratne,52,m,IT,Support Officer,Kandy,A/L,Probation,6/9/2025,15.9,45859.15,1.4,2.8,No,No,1,19,Yes
+EMP0311,Tharushi Dias,29,Male,IT,Developer,Badulla,Master,Permanent,6/10/2021,4.9,750000,2.6,3.3,Yes,Yes,10,10,No
+EMP0312,Saman Jayasinghe,5,Prefer not to say,Operations,Developer,Kurunegala,A/L,Permanent,9/21/2024,9.1,67015.24,2.7,3.4,No,No,6,12,No
+EMP0313,Ishara Senanayake,44,Female,Finance,Manager,Colombo,Bachelor,Probation,4/25/2023,19.5,115687.93,3.7,1.5,Yes,Yes,2,23,No
+EMP0314,Dinesh Bandara,48,Prefer not to say,Sales,Sales Executive,Kurunegala,Master,Contract,10/11/2025,15.2,106625.77,4.3,2.5,Yes,Yes,6,19,Yes
+EMP0315,Kasun Wijeratne,23,Female,Operations,Manager,,A/L,Probation,2/12/2023,1.2,106889.97,3.8,1.6,No,No,8,2,No
+EMP0316,Tharushi Dias,58,Male,IT,Support Officer,Kurunegala,Diploma,Probation,1/17/2025,,84812.5,4.1,2.9,No,No,6,11,No
+EMP0317,Nadeesha Peris,57,Female,Operations,Support Officer,Kandy,Master,Permanent,5/30/2022,,61741.31,3.3,3.6,No,Yes,4,15,Yes
+EMP0318,Nimal Perera,37,Male,Operations,HR Officer,Colombo,,Probation,2/1/2022,6.8,53978.33,2.8,4.2,No,Yes,7,5,No
+EMP0319,Kamal Silva,45,Female,Finance,Sales Executive,kandy,A/L,Contract,8/19/2023,16.1,70908.55,1.8,3.9,No,Yes,10,8,No
+EMP0320,Ruwan Kumara,55,,Sales,HR Officer,Badulla,Diploma,Permanent,5/4/2024,18.5,51689.5,2.1,3.1,No,Yes,4,25,No
+EMP0321,Saman Jayasinghe,48,Prefer not to say,Operations,Support Officer,Badulla,Bachelor,Probation,12/20/2022,13.1,111342.84,2.1,4.2,No,No,7,24,No
+EMP0322,Tharushi Dias,41,Female,Human Resources,Support Officer,Colombo,Diploma,Probation,1/6/2021,15.3,102489.1,1,1.4,Yes,No,5,7,No
+EMP0323,Dinesh Bandara,34,Prefer not to say,IT,Developer,Colombo,A/L,Contract,8/30/2025,10.1,107168.73,1.5,3.6,Yes,Yes,11,5,No
+EMP0324,Saman Jayasinghe,37,Prefer not to say,Sales,Support Officer,Galle,Bachelor,Probation,8/17/2022,8.3,118106.72,1.2,4.8,No,Yes,7,2,No
+EMP0325,Tharushi Dias,55,Male,Sales,Developer,,A/L,Permanent,8/12/2020,22.8,112693.2,4.7,3.9,Yes,Yes,1,2,No
+EMP0326,Kamal Silva,38,Prefer not to say,IT,Developer,Kurunegala,Diploma,Contract,5/19/2023,9.3,68245.09,1,3.8,No,No,6,12,No
+EMP0327,Dinesh Bandara,55,Male,Sales,Developer,Badulla,Bachelor,Permanent,2022/25/10,23.5,129925.05,2.6,3.5,Yes,No,8,10,Yes
+EMP0328,Kasun Wijeratne,33,Female,Operations,Developer,Galle,A/L,Permanent,4/23/2023,,78027.73,3.8,2.9,No,Yes,2,1,Yes
+EMP0329,Kamal Silva,52,Female,Operations,Support Officer,Badulla,A/L,Probation,6/14/2022,17.8,105538.5,5,1.1,Yes,No,12,23,Yes
+EMP0330,Tharushi Dias,35,Female,Operations,Analyst,Galle,Bachelor,Probation,7/1/2025,8.2,,4.7,1.2,Yes,Yes,2,20,Yes
+EMP0331,Ayesha Fernando,52,Male,IT,Developer,Kurunegala,Diploma,Probation,4/12/2020,11.8,107717.1,1.8,2.3,No,No,1,21,No
+EMP0332,Kasun Wijeratne,28,Male,sales ,HR Officer,Kurunegala,Diploma,Contract,9/16/2019,3,47003.42,2.5,1.7,Yes,Yes,2,3,No
+EMP0333,Dinesh Bandara,32,Male,IT,Developer,Kurunegala,Bachelor,Probation,1/30/2019,7.7,101734.79,4.2,2.9,Yes,Yes,2,20,No
+EMP0334,Kasun Wijeratne,52,m,IT,Manager,Jaffna,Bachelor,Contract,1/7/2021,,101323.32,2.2,2.7,Yes,Yes,1,16,No
+EMP0335,Saman Jayasinghe,33,Male,Finance,HR Officer,Kandy,Master,Probation,8/6/2019,9.3,71570.05,4.6,3,Yes,Yes,0,20,No
+EMP0336,Ruwan Kumara,24,Female,Sales,Developer,Colombo,Master,Permanent,3/3/2020,1.2,123533.66,4.6,3.9,No,No,3,23,No
+EMP0337,Ruwan Kumara,33,Female,IT,Analyst,Galle,Bachelor,Probation,8/17/2023,7,86780.41,0,4.6,Yes,Yes,9,14,Yes
+EMP0338,Tharushi Dias,88,Prefer not to say,Human Resources,HR Officer,Kurunegala,,Probation,unknown,8,35000,1.5,4.4,No,No,2,24,No
+EMP0339,Saman Jayasinghe,47,Female,Operations,Analyst,Kandy,A/L,Probation,12/21/2019,22,130967.96,3.4,4.3,No,Yes,11,13,No
+EMP0340,Kamal Silva,57,Male,Finance,Manager,Galle,Bachelor,Permanent,9/2/2020,,130203.31,-1,3.9,Yes,No,8,12,No
+EMP0341,Kasun Wijeratne,34,Female,Operations,Developer,Galle,A/L,Permanent,7/24/2023,8.8,68157.45,1.4,2.9,No,Yes,11,14,No
+EMP0342,Ruwan Kumara,50,Prefer not to say,Sales,Analyst,Colombo,,Permanent,2/26/2023,20.2,,3.1,2.2,No,Yes,12,21,Yes
+EMP0343,Dinesh Bandara,50,Prefer not to say,IT,Sales Executive,Jaffna,Bachelor,Probation,2/6/2023,12.7,104664.29,3.2,1.3,Yes,Yes,5,7,No
+EMP0344,Nadeesha Peris,38,Male,Finance,HR Officer,Galle,Master,Probation,12/15/2022,6.4,95318.03,2.5,2.8,Yes,No,11,17,No
+EMP0345,Ayesha Fernando,26,Male,IT,Analyst,Kandy,A/L,Contract,2/19/2024,3.5,67233.74,3,4.5,Yes,No,6,21,No
+EMP0346,Nadeesha Peris,25,,IT,HR Officer,Galle,Master,Probation,31/13/2021,2.1,130884.86,3.3,3.6,No,No,9,21,No
+EMP0347,Nadeesha Peris,37,Male,Finance,HR Officer,Kurunegala,Bachelor,Probation,12/4/2020,7.9,,4.4,1.6,No,No,2,19,No
+EMP0348,Nadeesha Peris,28,Female,Finance,Analyst,Jaffna,Master,Permanent,unknown,2.9,60443.5,2,1.7,Yes,No,5,4,No
+EMP0349,Dinesh Bandara,30,Female, IT ,Sales Executive,Kurunegala,Diploma,Contract,8/7/2024,6.1,99821.28,2.2,4.6,Yes,No,5,22,Yes
+EMP0350,Dinesh Bandara,49,Prefer not to say, IT ,Sales Executive,Badulla,Diploma,Probation,6/21/2021,18.3,84104.82,1.8,3.1,No,Yes,0,2,No
+EMP0351,Ruwan Kumara,41,Male,Sales,Analyst,Kandy,A/L,Probation,7/1/2024,7.6,105870.9,3.7,2.6,No,No,6,11,Yes
+EMP0352,Saman Jayasinghe,47,Male,IT,Analyst, colombo ,Master,Permanent,12/25/2023,19.6,116971.01,4.9,2.7,No,Yes,9,19,Yes
+EMP0353,Dinesh Bandara,21,Female,Operations,Sales Executive,Kandy,Master,Contract,12/29/2019,0,40557.77,3.2,3.8,Yes,Yes,2,12,No
+EMP0354,Dinesh Bandara,35,Female,Operations,Support Officer,Jaffna,Master,Probation,3/13/2024,9.5,127613.16,4.6,2.7,No,Yes,0,3,No
+EMP0355,Ruwan Kumara,37,Male,Sales,Manager,Badulla,Bachelor,Contract,11/22/2023,11.2,107572.4,1.5,3.1,Yes,No,2,18,Yes
+EMP0356,Kamal Silva,44,Prefer not to say,Finance,Developer,Kurunegala,Master,Contract,1/21/2022,12.1,47872.62,2.2,3.1,YES,Yes,12,20,Yes
+EMP0357,Ayesha Fernando,27,Prefer not to say,Human Resources,HR Officer,Kurunegala,Bachelor,Probation,1/24/2023,2.5,97732.19,1.5,2.1,No,No,5,5,Yes
+EMP0358,Ruwan Kumara,55,Female,Operations,Support Officer,Galle,Master,Permanent,11/23/2024,25.5,131740.43,2.7,4.7,Yes,Yes,0,15,No
+EMP0359,Kamal Silva,35,Female,Human Resources,Developer,Galle,A/L,Permanent,4/30/2020,9.7,35000,,1.8,Yes,No,11,24,No
+EMP0360,Saman Jayasinghe,120,Prefer not to say,Finance,Developer,Kurunegala,Bachelor,Probation,5/15/2019,25.7,104032.27,1.2,2.2,Yes,Yes,12,3,No
+EMP0361,Nadeesha Peris,30,Female,Human Resources,Developer,Badulla,Bachelor,Contract,1/7/2020,3.9,130416.63,3,3.9,Yes,Yes,1,18,No
+EMP0362,Nadeesha Peris,,Female,Finance,Manager,Galle,Diploma,Contract,1/18/2019,4.2,,1.7,3.7,Yes,Yes,5,12,No
+EMP0363,Dinesh Bandara,54,Female,IT,Sales Executive,Jaffna,A/L,Contract,3/27/2020,12.2,118791.85,2.3,1.5,No,No,9,23,No
+EMP0364,Kamal Silva,51,Female,Sales,Analyst,Galle,A/L,Probation,10/13/2019,10.7,130724.31,3.7,3.7,No,No,8,21,No
+EMP0365,Kasun Wijeratne,25,Prefer not to say,Operations,Developer,Kandy,A/L,Contract,11/22/2020,1.8,86242.15,4.4,2.6,Yes,No,11,15,No
+EMP0366,Kamal Silva,46,Male,Sales,Support Officer,Badulla,Diploma,Permanent,10/6/2025,10.3,61722.88,3,1.9,Yes,Yes,1,23,Yes
+EMP0367,Dinesh Bandara,30,Prefer not to say,Sales,Manager,Kandy,Master,Probation,9/1/2022,6.6,68056.32,3.6,3.1,No,No,3,9,No
+EMP0368,Ishara Senanayake,48,Male,Operations,Developer,Colombo,A/L,Probation,5/10/2019,15.4,77549.98,1.1,1.7,No,Yes,7,13,Yes
+EMP0369,Nimal Perera,57,Prefer not to say,Operations,Support Officer,KURUNEGALA,Bachelor,Contract,1/18/2025,15.4,91451.53,1.2,2.1,No,No,12,9,No
+EMP0370,Saman Jayasinghe,22,MALE,Human Resources,Support Officer,KURUNEGALA,Diploma,Probation,7/19/2025,0.5,131410.67,2.7,5,No,No,0,21,No
+EMP0371,Nimal Perera,42,Male,IT,HR Officer,Galle,A/L,Contract,4/13/2020,7.7,58180.88,3.6,2.7,No,No,0,22,No
+EMP0372,Kamal Silva,,Prefer not to say,Operations,Developer,Kurunegala,Master,Contract,6/23/2024,3.6,107370.07,4.2,3.7,Yes,No,5,13,Yes
+EMP0373,Dinesh Bandara,46,Male,IT,HR Officer,Kurunegala,Master,Permanent,6/7/2025,20.7,136756.77,3.9,3.3,No,No,1,18,No
+EMP0374,Ayesha Fernando,48,Prefer not to say,Human Resources,Manager,Galle,Bachelor,Probation,5/13/2022,15,107251.47,2,3.1,Yes,Yes,10,22,No
+EMP0375,Kamal Silva,,Prefer not to say,Sales,HR Officer,Kurunegala,A/L,Contract,12/22/2024,22.7,66663.23,2,4,No,No,6,10,No
+EMP0376,Ishara Senanayake,37,Prefer not to say,Human Resources,Support Officer,Colombo,Bachelor,Permanent,10/19/2020,7.5,107589.37,1.6,1.1,No,No,7,17,No
+EMP0377,Tharushi Dias,37,Female,Human Resources,Analyst,Galle,Master,Probation,4/30/2019,10,115641.82,3.6,1.2,No,Yes,0,2,No
+EMP0378,Ruwan Kumara,,Male,FINANCE,Sales Executive,Jaffna,A/L,Probation,7/29/2020,11.5,141609.63,4.8,4.7,No,No,1,7,No
+EMP0379,Kamal Silva,30,Male,Finance,Sales Executive,Jaffna,,Contract,6/11/2021,4.4,69251.35,2.6,4.5,Yes,No,8,11,No
+EMP0380,Tharushi Dias,44,Prefer not to say,Finance,HR Officer,Galle,Master,Probation,8/16/2020,11.6,1200000,3.6,4.6,Yes,Yes,11,25,No
+EMP0381,Ayesha Fernando,55,Male,Human Resources,Support Officer,Badulla,Master,Probation,,18.6,35000,4.9,2,Yes,Yes,4,6,No
+EMP0382,Ruwan Kumara,26,Male,Sales,Developer,Jaffna,Master,Contract,1/27/2022,3.9,92465.57,3.9,4.5,Yes,Yes,11,8,No
+EMP0383,Ayesha Fernando,49,Prefer not to say,IT,Developer,Badulla,A/L,Contract,1/22/2021,15.4,112336.98,3.5,2.3,Yes,Yes,2,7,No
+EMP0384,Kasun Wijeratne,37,Female,Sales,Sales Executive,Colombo,Diploma,Probation,6/30/2020,8.2,53708.8,2.1,1.3,No,Yes,6,12,No
+EMP0385,Nadeesha Peris,26,Male,Operations,Support Officer,Galle,A/L,Permanent,7/25/2021,2.8,107460.93,2.7,2,Yes,No,2,18,Yes
+EMP0386,Ayesha Fernando,33,Male,Finance,Support Officer,Kurunegala,Diploma,Contract,4/12/2021,6.5,47544.92,2.7,1.8,Yes,No,11,21,Yes
+EMP0387,Ishara Senanayake,36,Prefer not to say,Human Resources,Analyst,Jaffna,Master,Permanent,1/22/2024,8.7,73750.39,1,1.5,No,No,10,6,No
+EMP0388,Tharushi Dias,24,Male,IT,Manager,Badulla,Master,Permanent,8/29/2019,2.4,83758.06,5,4.8,Yes,Yes,4,16,No
+EMP0389,Nimal Perera,,Female,Operations,Developer,Galle,Master,Probation,7/5/2025,9,70140.13,4.5,1.5,No,No,2,8,Yes
+EMP0390,Dinesh Bandara,37,Female,Human Resources,Sales Executive,Kurunegala,Bachelor,Permanent,,7.7,119376,2.3,4.6,No,No,12,4,No
+EMP0391,Dinesh Bandara,51,Male,Finance,Analyst,Colombo,Bachelor,Permanent,5/27/2019,17,53031.58,5,4.7,yes,No,5,22,No
+EMP0392,Ishara Senanayake,39,Female,Human Resources,Developer,Kurunegala,A/L,Probation,,10.9,75238.96,2.1,4.6,Yes,Yes,8,24,No
+EMP0393,Dinesh Bandara,39,Male,IT,HR Officer,,Master,Probation,4/17/2019,9.8,124218.98,3.4,4.8,No,Yes,0,2,No
+EMP0394,Ruwan Kumara,60,Female, IT ,HR Officer,Badulla,Diploma,Probation,6/29/2019,27.9,129374.56,3.9,4.8,Yes,Yes,0,25,No
+EMP0395,Ayesha Fernando,,,Operations,Sales Executive,Kandy,A/L,Contract,1/15/2020,18.4,78418.39,2.6,1.1,Yes,Yes,6,24,No
+EMP0396,Kamal Silva,29,Male,it,Support Officer,Kandy,Bachelor,Contract,10/7/2025,4.3,86974.23,1.8,2.8,No,No,4,18,No
+EMP0397,Dinesh Bandara,53,Male,Sales,Developer,Kurunegala,Bachelor,Probation,6/15/2019,14.8,79818.06,3.7,1.6,No,Yes,4,14,No
+EMP0398,Kasun Wijeratne,48,Male,Human Resources,Analyst,Kandy,Master,Probation,11/12/2024,10.5,83946.74,1.2,1.4,No,No,1,14,No
+EMP0399,Dinesh Bandara,28,Prefer not to say,IT,Manager,Kandy,Master,Permanent,3/8/2019,5.2,118045.76,4.4,1.2,No,No,5,18,No
+EMP0400,Ishara Senanayake,59,Prefer not to say,Finance,Analyst,Badulla,A/L,Contract,11/17/2019,21.5,57072.11,1.1,2.6,Yes,Yes,10,15,No
+EMP0401,Saman Jayasinghe,46,Male,Operations,Manager,,Bachelor,Permanent,1/17/2023,10.4,112184.56,1.8,4.3,Yes,Yes,3,15,No
+EMP0402,Saman Jayasinghe,51,Male,Human Resources,Sales Executive,Jaffna,A/L,Permanent,8/29/2020,24,90449.5,4,2.8,No,No,0,14,No
+EMP0403,Nimal Perera,48,Male,Human Resources,Developer, colombo ,Master,Probation,2/25/2020,,125189.58,2.2,2.9,No,No,3,22,Yes
+EMP0404,Dinesh Bandara,51,Female,IT,HR Officer,Jaffna,Bachelor,Probation,9/5/2023,20.2,42749.03,2.8,2.7,Yes,No,11,6,No
+EMP0405,Kamal Silva,29,Prefer not to say,Human Resources,Manager,Galle,Bachelor,Permanent,4/2/2024,6.6,85324.54,3.6,2.4,No,Yes,9,6,No
+EMP0406,Ayesha Fernando,52,Female,Finance,Analyst,Jaffna,Diploma,Permanent,10/17/2025,26.3,59830.01,2.2,1.8,Yes,Yes,5,8,No
+EMP0407,Kasun Wijeratne,,Prefer not to say,Human Resources,Sales Executive,Colombo,Diploma,Contract,4/11/2020,23.1,62886.95,5,4.1,Yes,No,2,22,No
+EMP0408,Tharushi Dias,60,Prefer not to say,Sales,Developer,Galle,A/L,Probation,3/9/2020,90,134851.89,3.2,3,Yes,Yes,3,11,Yes
+EMP0409,Nadeesha Peris,42,Female,IT,Analyst,Colombo,,Contract,1/29/2023,9.5,113729.27,4.9,4.1,Yes,Yes,12,15,No
+EMP0410,Nimal Perera,30,Male,Sales,HR Officer,Kurunegala,Diploma,Probation,10/2/2021,6.7,122705.92,1.6,2.7,No,No,8,25,No
+EMP0411,Tharushi Dias,42,Prefer not to say,Operations,Developer,Badulla,,Contract,12/14/2019,14.1,134254.32,4.6,1.2,No,No,6,21,No
+EMP0412,Kamal Silva,60,Female,IT,HR Officer,Jaffna,Master,Contract,12/1/2024,24.3,91515.86,4.2,3.6,No,No,12,6,No
+EMP0413,Saman Jayasinghe,39,Male,Finance,Manager,Badulla,A/L,Probation,1/24/2025,9.1,64829.95,2.4,3.5,Yes,Yes,12,17,No
+EMP0414,Ruwan Kumara,44,Female,IT,Support Officer,Badulla,Bachelor,Contract,9/3/2019,9.5,69894.78,4,4.8,No,No,9,23,Yes
+EMP0415,Ishara Senanayake,29,Female,Human Resources,HR Officer,Colombo,Diploma,Contract,6/4/2025,3.8,117966.87,2.3,3.3,No,No,1,4,No
+EMP0416,Ishara Senanayake,49,Female,Finance,Sales Executive,Kurunegala,Bachelor,Contract,5/29/2021,20.7,83651.92,4.5,3.3,No,No,11,15,No
+EMP0417,Ruwan Kumara,54,Prefer not to say,Sales,Analyst,,Diploma,Probation,10/3/2024,19.4,70034.27,4,4.8,No,Yes,9,13,Yes
+EMP0418,Dinesh Bandara,40,Female,Finance,Developer,Colombo,Master,Permanent,3/2/2023,8,91530.81,3.4,1.2,No,No,3,5,No
+EMP0419,Dinesh Bandara,57,Prefer not to say,IT,Sales Executive,Galle,Bachelor,Probation,5/24/2024,18.7,77115.79,2.5,4.3,Yes,Yes,8,20,No
+EMP0420,Tharushi Dias,45,Prefer not to say,Human Resources,Developer,Badulla,Diploma,Probation,8/5/2023,14.9,72256.93,4.8,4.6,No,Yes,2,22,Yes
+EMP0421,Nimal Perera,60,Male,Operations,Developer,Kurunegala,Bachelor,Probation,2/27/2021,32.3,103882.73,3.1,4,Yes,Yes,10,17,Yes
+EMP0422,Ruwan Kumara,55,Male,,Sales Executive,,Diploma,Permanent,12/13/2019,12.7,104193.17,4.4,1.1,No,Yes,6,0,No
+EMP0423,Nimal Perera,39,Male,IT,Manager,Galle,Diploma,Contract,11/19/2020,7.1,70390.98,2.2,2.6,Yes,Yes,9,10,Yes
+EMP0424,Kamal Silva,37,Male,Finance,Sales Executive,Colombo,Master,Contract,8/20/2022,,57806.97,1.8,4,Yes,No,8,24,No
+EMP0425,Nadeesha Peris,51,Female,Operations,Sales Executive,Kurunegala,Master,Probation,9/26/2019,12,101725.1,4.1,3.6,Yes,No,9,13,No
+EMP0426,Dinesh Bandara,48,Male,Finance,Analyst,Jaffna,Master,Probation,1/10/2025,10,148375.27,4.3,4.8,No,Yes,0,1,No
+EMP0427,Nadeesha Peris,58,Male,Sales,HR Officer,Galle,Bachelor,Probation,,15.9,,3.1,1.3,Yes,No,11,3,No
+EMP0428,Nimal Perera,37,Prefer not to say,Operations,HR Officer,Galle,Diploma,Permanent,11/4/2022,8.2,60409.32,1.8,4.8,No,Yes,11,4,No
+EMP0429,Ishara Senanayake,52,Prefer not to say,Finance,Sales Executive,Kandy,A/L,Permanent,3/26/2025,23.1,,3.6,1.3,Yes,No,10,3,No
+EMP0430,Saman Jayasinghe,44,Female,IT,Developer,Galle,Master,Permanent,3/10/2024,10.6,135423.04,1.1,2.1,No,Yes,1,19,No
+EMP0431,Kamal Silva,34,,Human Resources,Sales Executive,Kandy,Bachelor,Probation,10/18/2025,6.4,1200000,,1.7,Yes,Yes,1,18,Yes
+EMP0432,Nadeesha Peris,55,Male,Human Resources,Analyst,Galle,Master,Probation,4/5/2019,26.9,113447.35,1,2.7,Yes,No,6,13,No
+EMP0433,Ishara Senanayake,24,Female,IT,Support Officer,Kurunegala,,Permanent,7/8/2021,1.7,75292.96,1,1.8,Yes,Yes,11,7,No
+EMP0434,Ruwan Kumara,27,Female,Human Resources,HR Officer,Kandy,Bachelor,Permanent,9/15/2019,2.2,52224.93,4.2,4.7,No,Yes,1,15,No
+EMP0435,Dinesh Bandara,27,Female,Operations,Manager,Kandy,A/L,Permanent,12/2/2023,2.4,110321.08,1.2,1.1,No,Yes,12,4,Yes
+EMP0436,Kasun Wijeratne,56,Prefer not to say,,Support Officer,Colombo,Master,Probation,8/17/2019,19.4,81778.18,4.5,4.1,Yes,No,6,14,No
+EMP0437,Ishara Senanayake,42,Male,IT,Sales Executive,Badulla,A/L,Permanent,10/19/2024,7.5,100066.62,3.9,3.4,NO,Yes,10,16,No
+EMP0438,Tharushi Dias,24,Male,Finance,Analyst,Colombo,Bachelor,Permanent,6/30/2019,1.8,48880.27,3.6,2.4,Yes,Yes,7,9,No
+EMP0439,Dinesh Bandara,24,Prefer not to say,Finance,Manager,Badulla,Master,Probation,4/10/2025,1.4,90014.64,7,4.1,No,Yes,10,15,No
+EMP0440,Saman Jayasinghe,47,Female,Operations,HR Officer,Galle,Master,Probation,5/12/2022,20.5,85146.63,4.6,3,Yes,Yes,11,7,No
+EMP0441,Ayesha Fernando,32,Female,Sales,Analyst,Kandy,Bachelor,Contract,6/28/2023,6.9,55717.51,1.6,2.8,No,Yes,0,6,Yes
+EMP0442,Ayesha Fernando,33,Prefer not to say,Operations,Analyst,kandy,A/L,Probation,1/1/2021,8.9,109704.67,1.4,4.7,No,No,3,11,No
+EMP0443,Nadeesha Peris,29,Male,IT,Developer,,Master,Permanent,8/14/2020,4.3,113776.23,2.5,3.4,Yes,Yes,12,19,No
+EMP0444,Nadeesha Peris,29,Male,IT,Support Officer,KURUNEGALA,A/L,Permanent,2/21/2022,3.1,120111.57,2.9,3.7,Yes,Yes,8,12,No
+EMP0445,Saman Jayasinghe,54,Male,Human resources,Support Officer,Kurunegala,Master,Contract,3/12/2023,19.7,1200000,2.1,2.6,Yes,Yes,3,6,No
+EMP0446,Ishara Senanayake,44,Male,Sales,Manager,Galle,A/L,Contract,10/5/2020,16.7,81196.69,2.2,3.1,Yes,Yes,7,16,No
+EMP0447,Kamal Silva,38,Male,FINANCE,Sales Executive,Kurunegala,Diploma,Permanent,7/22/2022,7.9,87621.13,3.6,2.4,Yes,No,8,16,No
+EMP0448,Nadeesha Peris,55,Male,IT,HR Officer,Colombo,Master,Contract,6/6/2019,17.5,75800.52,2.2,4.3,No,Yes,11,19,No
+EMP0449,Saman Jayasinghe,58,Male,Human Resources,Sales Executive,Badulla,A/L,Permanent,7/20/2023,16.8,44323.39,1.9,3.3,No,No,5,25,Yes
+EMP0450,Ishara Senanayake,22,,Sales,Sales Executive,Jaffna,Master,Contract,4/6/2025,0.4,,4.8,1, y ,No,3,13,No
+EMP0451,Ishara Senanayake,,Female,Operations,Developer,Galle,Diploma,Contract,5/13/2025,1.3,129782.21,3.4,3.4,No,No,3,12,Yes
+EMP0452,Ishara Senanayake,26,Male,Operations,Sales Executive,Kurunegala,Bachelor,Contract,6/1/2022,,42986.15,4.3,3.4,Yes,Yes,3,2,No
+EMP0453,Dinesh Bandara,24,Female,Operations,Developer,Jaffna,Master,Probation,2/6/2024,2.2,62181.62,2.6,4.6,Yes,Yes,3,9,No
+EMP0454,Kamal Silva,38,Male,Finance,Manager,Badulla,A/L,Contract,2/23/2024,11.1,79078.15,2,2.3,No,No,7,18,Yes
+EMP0455,Nadeesha Peris,47,Male,Human Resources,Sales Executive,Badulla,Diploma,Probation,12/18/2020,20.9,117140.76,1.7,3.3,No,Yes,3,5,No
+EMP0456,Nimal Perera,56,Male,,Sales Executive,Colombo,Diploma,Probation,8/12/2023,25.5,64119.8,3,4.1,No,No,2,8,Yes
+EMP0457,Nadeesha Peris,46,Prefer not to say,Sales,Sales Executive,Kurunegala,A/L,Permanent,,8.9,125348.72,1.5,4.7,No,No,7,14,Yes
+EMP0458,Tharushi Dias,31,Female,Sales,HR Officer,Galle,Master,Permanent,10/22/2020,4.4,139326.88,1.5,4,Yes,Yes,10,24,Yes
+EMP0459,Kasun Wijeratne,55,Female,Finance,Support Officer,Colombo,A/L,Permanent,5/22/2019,90,46830.64,4.2,3.6,Yes,No,11,9,No
+EMP0460,Ayesha Fernando,33,female,,HR Officer,Kurunegala,Diploma,Contract,9/4/2021,10.1,58636.5,2.3,1.8,Yes,Yes,1,25,No
+EMP0461,Ayesha Fernando,41,Female,Operations,Developer,Galle,Master,Permanent,9/1/2022,9.1,98940.6,3.2,4.8,Yes,Yes,3,3,No
+EMP0462,Kasun Wijeratne,35,Female,Sales,Analyst,Kandy,Diploma,Probation,2/23/2024,5.4,107229.48,1.9,2.2,No,Yes,11,17,No
+EMP0463,Kasun Wijeratne,29,Male,Human Resources,Support Officer,Galle,Bachelor,Probation,5/11/2023,6.3,71295.23,2.3,4.4,No,Yes,5,0,No
+EMP0464,Ishara Senanayake,35,Female,Operations,Support Officer,Badulla,Diploma,Permanent,2/24/2019,7.9,69661.9,2,1.3,Yes,No,7,9,Yes
+EMP0465,Saman Jayasinghe,29,Female,Operations,Sales Executive,Jaffna,Diploma,Probation,9/8/2022,5.8,62960.23,3.1,4.9,No,Yes,3,23,No
+EMP0466,Ayesha Fernando,59,Female,Finance,Support Officer,Kurunegala,Diploma,Permanent,6/30/2021,16.8,135084.62,3.5,1.3,No,Yes,3,1,No
+EMP0467,Kasun Wijeratne,36,Male,Operations,Manager,Badulla,Bachelor,Contract,4/17/2021,8.8,95665.98,1.7,1.8,No,Yes,9,7,No
+EMP0468,Kamal Silva,46,female,Sales,Developer,Jaffna,Bachelor,Probation,1/12/2023,14,83109.71,3.4,2.7,Yes,No,0,24,No
+EMP0469,Nadeesha Peris,50,Prefer not to say,Finance,HR Officer,Badulla,Master,Contract,4/8/2023,18.3,81059.44,2.9,2.3,YES,Yes,2,6,Yes
+EMP0470,Ishara Senanayake,44,Male,,Sales Executive,Badulla,,Probation,6/5/2023,19.4,86377.92,1.3,4.5,Yes,No,9,5,Yes
+EMP0471,Ayesha Fernando,24,Male,Sales,Support Officer,Kurunegala,Bachelor,Permanent,2/17/2023,1.1,111008.32,4.3,3.5,Yes,Yes,4,19,No
+EMP0472,Kamal Silva,46,Female,,Developer,Badulla,Master,Permanent,4/24/2023,14.1,118198.3,3.8,3,No,No,11,13,No
+EMP0473,Ruwan Kumara,46,Female,,Support Officer,Badulla,Bachelor,Permanent,5/8/2021,10,61423.53,4.1,2.7,No,No,11,13,Yes
+EMP0474,Kasun Wijeratne,28,Female,Sales,Analyst,Badulla,Bachelor,Permanent,8/20/2024,3.1,81320.69,1.2,1.7,Yes,No,6,14,No
+EMP0475,Nimal Perera,28,Prefer not to say,Human Resources,Developer,Jaffna,Diploma,Permanent,3/28/2023,4.5,77535.3,2.9,3.7,Yes,Yes,0,8,No
+EMP0476,Kasun Wijeratne,45,Female,Finance,Manager,Kandy,Master,Permanent,1/30/2019,13.6,92922,2.5,4.6,n,Yes,5,21,No
+EMP0477,Ruwan Kumara,29,Female,IT,Sales Executive,Badulla,Master,Permanent,7/4/2023,5.8,127211.42,2,2.8,No,No,10,6,Yes
+EMP0478,Saman Jayasinghe,35,Prefer not to say,Human Resources,Support Officer,Kurunegala,Diploma,Permanent,12/25/2023,9.2,104160.27,1.3,2.7,No,Yes,11,12,No
+EMP0479,Kamal Silva,56,Female,Sales,Developer,Galle,Diploma,Permanent,5/19/2022,27.9,142027.96,4.8,2.9,Yes,Yes,3,5,No
+EMP0480,Saman Jayasinghe,35,Prefer not to say,Human Resources,Sales Executive,Jaffna,Diploma,Probation,2/22/2022,11.6,128765.72,3.7,3.7,No,Yes,12,22,No
+EMP0481,Saman Jayasinghe,56,Prefer not to say,Human Resources,Sales Executive,Colombo,Master,Permanent,4/13/2023,16.3,137618.53,2,2.2,Yes,Yes,5,23,No
+EMP0482,Saman Jayasinghe,21,Female,Human Resources,Sales Executive,Galle,Diploma,Probation,6/21/2025,0,71246.8,2.6,2.7,No,Yes,8,21,No
+EMP0483,Kamal Silva,39,Male,Sales,HR Officer,Badulla,A/L,Probation,8/15/2020,10.4,129698.66,3.4,1.6,Yes,No,4,16,No
+EMP0484,Ayesha Fernando,45,Female,Finance,Sales Executive,Jaffna,A/L,Contract,4/8/2022,18.6,35000,,1.9,Yes,Yes,7,23,No
+EMP0485,Kasun Wijeratne,43,Female,Sales,Support Officer,Badulla,Master,Contract,4/23/2024,13.5,116781.36,2.1,3.8,Yes,No,1,4,No
+EMP0486,Ayesha Fernando,49,Male,Finance,Manager,Galle,Bachelor,Permanent,7/17/2020,11.8,109225.92,1.9,4,n,No,11,18,Yes
+EMP0487,Tharushi Dias,32,Prefer not to say,IT,HR Officer,Jaffna,Bachelor,Probation,4/24/2024,6.2,96200.86,1.6,3.9,Yes,Yes,1,7,No
+EMP0488,Nadeesha Peris,50,Female,Sales,Support Officer,Colombo,A/L,Contract,1/3/2020,,148703.9,3.6,2.5,Yes,Yes,1,3,No
+EMP0021,Tharushi Dias,33,Female,Finance,Analyst,kandy,Master,Permanent,4/7/2019,4.6,87756.37,4.1,2.4,No,No,0,3,No
+EMP0022,Nadeesha Peris,43,Prefer not to say,IT,Manager,Badulla,Bachelor,Contract,11/15/2023,14.4,112138.09,,2.5,Yes,No,0,22,No
+EMP0023,Ayesha Fernando,60,Female,Sales,Developer,Galle,A/L,Probation,9/14/2022,,35000,2.2,2.2,n,No,6,22,No
+EMP0024,Nadeesha Peris,40,Male,Finance,Manager,Badulla,Bachelor,Probation,5/20/2025,9.5,65928.13,1.8,4.1,No,No,7,14,No
+EMP0025,Dinesh Bandara,60,Prefer not to say,IT,HR Officer,Colombo,A/L,Contract,10/12/2024,28.3,48285.96,3.7,1.9,Yes,Yes,0,1,No
+EMP0026,Nadeesha Peris,52,Male,Operations,Analyst,Colombo,Bachelor,Permanent,4/22/2023,21.5,88941.49,4.6,4.4,Yes,No,3,5,No
+EMP0027,Tharushi Dias,54,Prefer not to say,Sales,Analyst,Galle,Bachelor,Contract,3/18/2024,19.9,,4.3,3.2,Yes,No,7,8,No
+EMP0028,Nadeesha Peris,36,Male,,Developer,Galle,Diploma,Permanent,3/16/2022,9.3,77729.62,1.6,1.9,Yes,Yes,1,13,No
+EMP0029,Nimal Perera,22,Male,Sales,Sales Executive,Kandy,,Probation,7/20/2025,0.8,64052.39,4.8,2.7,Yes,No,3,8,No
+EMP0030,Ishara Senanayake,60,Male,Finance,Sales Executive,Kurunegala,A/L,Contract,6/6/2020,25.2,113869.45,3.7,1.3,No,Yes,7,5,Yes
+EMP0031,Nimal Perera,47,Female, IT ,Sales Executive,Kurunegala,Bachelor,Permanent,2/13/2022,9.4,81113.02,3.2,5,No,Yes,10,2,No
+EMP0032,Kamal Silva,29,Female,Operations,Analyst,Kandy,Diploma,Probation,9/4/2021,6.6,93463.54,2.9,2,No,Yes,9,19,No
